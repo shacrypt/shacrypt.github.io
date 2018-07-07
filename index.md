@@ -1,5 +1,3 @@
-## SHAcrypt
-
 ```php
 <?php
 ?>
